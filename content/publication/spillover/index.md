@@ -37,10 +37,12 @@ summary: Online platforms face pressure to keep their communities civil and resp
 
 
 tags:
-  - Large Language Models
+  - Causal Inference
+  - Content Moderation
+  - Social Media
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
