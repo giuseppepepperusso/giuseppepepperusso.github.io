@@ -15,8 +15,8 @@ author_notes:
 date: '2024-05-03T00:00:00Z'
 publishDate: '2024-05-03T00:00:00Z'
 
-publication_types: ['conference paper']
-publication: In The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work
+publication_types: ['preprint']
+publication: In *arXiv preprint arXiv:2405.02150*
 publication_short: arXiv:2405.02150
 
 abstract: |
