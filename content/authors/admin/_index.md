@@ -37,9 +37,10 @@ profiles:
     url: https://scholar.google.com/citations?hl=en&user=sl79n2QAAAAJ&view_op=list_works&gmla=AH8HC4x3qIsxb0gGGD9OvDU9MF5hM5rSOtUJwWGDbwUB1WSp_0LE60Y7OUnjick8QO2JUk1sXXPQmsB8R1cUoFLy
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human-AI Interactions
+  - Large Language Models
+  - Causal Inference
+  - Human Study
 
 education:
   - area: PhD Artificial Intelligence
