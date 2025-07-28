@@ -22,7 +22,7 @@ publishDate: '2024-11-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Findings of the Association for Computational Linguistics: EMNLP 2024*
+publication: In *Findings of the Association for Computational Linguistics--EMNLP 2024*
 publication_short: In *EMNLP Findings 2024*
 
 abstract: |
