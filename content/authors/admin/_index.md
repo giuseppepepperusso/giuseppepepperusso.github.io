@@ -55,7 +55,7 @@ education:
 
 ## About Me
 
-Hi, I’m Giuseppe—but you can call me Peppe. I’m a postdoctoral researcher at the [DLab]() at EPFL, advised by [Robert West](), and currently visiting the [SALT group]() at Stanford University under the guidance of [Diyi Yang]().
+Hi, I’m Giuseppe—but you can call me Peppe. I’m a postdoctoral researcher at the [DLab](https://dlab.epfl.ch/) at EPFL, advised by [Robert West](https://dlab.epfl.ch/people/west/), and currently visiting the [SALT group](https://saltlab.stanford.edu/) at Stanford University under the guidance of [Diyi Yang](https://cs.stanford.edu/~diyiy/).
 
 My research is guided by a central question:  
 **How can data-driven methods help us *understand*, *simulate*, and *improve* the way communities function in digitally mediated environments?**
